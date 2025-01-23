@@ -3,7 +3,7 @@
       {
         "name": "Administrar usuarios",
         "route": "/users-index/false",
-        "operacion": "users%user%index",
+        "operacion": "user%index",
         "icon": "person"
       },
       {
